@@ -52,7 +52,6 @@ setup(name='giveme5w1h',
           'pycorenlp',
           'spacy',
           'Twisted',
-          'typing',
           'Unidecode'
       ],
       extras_require={
